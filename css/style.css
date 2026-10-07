@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Isometra&display=swap');
+
 h1{
     text-align: center;
     background-color: black;
@@ -30,7 +32,7 @@ h2{
 } */
 
 
-.odd{
+ /*.odd{
     background-color: rgb(66, 9, 9);
 
 
@@ -45,5 +47,21 @@ h2{
 
 #title{
     background-color: rgb(204, 108, 40);
+
+}*/
+
+*{
+    background-color:rgb(215, 242, 42) ;
+
+
+} 
+
+.helloText{
+    /*background-color: rgb(10 20 30 );*/
+    background-color:#27ae60 ;
+    color: #c0392b;
+    font-family: "Isometra", serif;
+
+
 
 }
