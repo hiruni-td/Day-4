@@ -1,6 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Isometra&display=swap');
-
+/*@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&display=swap');
 h1{
     text-align: center;
     background-color: black;
@@ -13,7 +12,7 @@ h2{
 
 
 
-}
+}*/
 
   /*.hero{
     background-color: rgb(235, 129, 129);
@@ -50,18 +49,68 @@ h2{
 
 }*/
 
-*{
-    background-color:rgb(215, 242, 42) ;
+ /* *{
+    background-color:rgb(24, 144, 204) ;
 
 
-} 
+} */
 
-.helloText{
-    /*background-color: rgb(10 20 30 );*/
-    background-color:#27ae60 ;
-    color: #c0392b;
-    font-family: "Isometra", serif;
+/*.helloText{
+    background-color: rgb(10 20 30 );
+    background-color:#460735 ;
+    color: #2fb0d7;
+    font-family: "Libre Caslon Condensed", serif;
 
+}*/
+
+/*.helloText{
+    background-color: rgb(7, 37, 5);
+    color: rgb(158, 112, 95);
+
+    text-align: center;
+
+    padding: 50px;
+    margin: 100px; 
+    border: 10px solid #000000;
+ 
+
+}*/
+
+.Card{
+    background-color:#002D62;
+    color: white;
+    padding: 20px;
 
 
 }
+.card-image{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 30px;
+
+}
+
+*{
+    background-color: skyblue;
+
+
+}
+
+.card-topic{
+    color:#A6192E;
+}
+
+.card-paragraph{
+    border: 10px solid #008751;
+    padding: 30px;
+    color: black;
+}
+
+.btn{
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+
+
+}
+
