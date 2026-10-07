@@ -13,10 +13,37 @@ h2{
 
 }
 
-.hero{
-    background-color: rgb(179, 139, 255);
+  /*.hero{
+    background-color: rgb(235, 129, 129);
+
+}
+
+.background{
+    background-color: rgb(223, 131, 223);
 
 
 }
 
-   
+.textAlignment{
+    text-align: center;
+
+} */
+
+
+.odd{
+    background-color: rgb(66, 9, 9);
+
+
+
+}
+
+.even{
+    background-color: rgb(140, 103, 54);
+
+
+}
+
+#title{
+    background-color: rgb(204, 108, 40);
+
+}
